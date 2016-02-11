@@ -4,6 +4,15 @@
 *.obj
 *.elf
 
+*.order
+*.symvers
+
+*.mod.c
+*.mod.o
+
+*.o.cmd
+*.ko.cmd
+
 # Precompiled Headers
 *.gch
 *.pch
